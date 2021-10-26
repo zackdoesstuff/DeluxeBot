@@ -1,0 +1,14 @@
+{
+  "name": "deluxebot",
+  "version": "1.0.0",
+  "description": "deluxebot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "zac",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.2.0"
+  }
+}
